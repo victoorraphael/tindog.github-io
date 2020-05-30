@@ -1,0 +1,19 @@
+
+body {
+  font-family: 'Montserrat';
+}
+
+#title {
+  background-color: #FD4C68;
+}
+
+.custom-h1{
+  font-family: 'Montserrat';
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
