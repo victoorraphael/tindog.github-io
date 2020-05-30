@@ -17,3 +17,22 @@ body {
 .container-fluid {
   padding: 3% 15%;
 }
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 1.3rem;
+  padding: 0 18px;
+}
